@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MBankClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mbankURL">http://mbankwebenvironment-ureknphcgp.elasticbeanstalk.com/androidJson</string>
+    <string name="welcome_string">Welcome to Mbank</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="quit">Quit</string>
+    <string name="userNameString">\u003FuserName=</string>
+    <string name="userPassword">\u0026userPassword=</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="no_connection">Can\u0027t connect</string>
+    <string name="wrong_username_password">Wrong username or password</string>
+    <string name="deposits">Deposits</string>
+    <string name="activities">Activities</string>
+    <string name="client_details">Details</string>
+    <string name="text_color">0xff0000ff</string>
+    <string name="estimated_balance">Estimated Balance</string>
+    <string name="balance">Balance</string>
+    <string name="opening_date">Opening Date</string>
+    <string name="closing_date">Closing Date</string>
+    <string name="deposit_details">Deposit Details</string>
+    <string name="activity_details">Activity Details</string>
+    <string name="date_of_activity">Date of activity</string>
+    <string name="amount">Amount</string>
+    <string name="commission">Commission</string>
+    <string name="description_of_activity">Description of activity</string>
+
+</resources>
